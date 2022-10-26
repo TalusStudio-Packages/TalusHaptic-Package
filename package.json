@@ -1,13 +1,13 @@
 {
-  "name": "com.talus.taluspackage",
+  "name": "com.talus.talushaptic",
   "version": "1.0.0",
-  "displayName": "Talus Package",
+  "displayName": "TalusHaptic",
   "description": "",
   "unity": "2020.3",
   "unityRelease": "9f1",
   "keywords": [
     "package",
-    "template"
+    "haptic"
   ],
   "author": {
     "name": "Talus Studio",

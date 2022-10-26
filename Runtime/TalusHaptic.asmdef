@@ -1,10 +1,10 @@
 {
-    "name": "TalusPackage.Editor",
+    "name": "TalusHaptic",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [
-        "Editor"
+    "references": [
+        "Lofelt.NiceVibrations"
     ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
