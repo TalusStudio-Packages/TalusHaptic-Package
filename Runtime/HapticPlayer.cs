@@ -2,13 +2,16 @@ using UnityEngine;
 
 using Lofelt.NiceVibrations;
 
-[CreateAssetMenu]
-public class HapticPlayer : ScriptableObject
+namespace TalusHaptic
 {
-    public HapticPatterns.PresetType Preset;
-
-    public void Play()
+    [CreateAssetMenu]
+    public class HapticPlayer : ScriptableObject
     {
-        HapticPatterns.PlayPreset(Preset);
+        public HapticPatterns.PresetType Preset;
+
+        public void Play()
+        {
+            HapticPatterns.PlayPreset(Preset);
+        }
     }
 }
