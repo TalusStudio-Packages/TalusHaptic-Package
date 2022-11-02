@@ -1,6 +1,6 @@
 {
     "name": "TalusHaptic",
-    "rootNamespace": "",
+    "rootNamespace": "TalusHaptic",
     "references": [
         "Lofelt.NiceVibrations"
     ],
