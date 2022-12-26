@@ -13,5 +13,6 @@
     "name": "Talus Studio",
     "email": "info@talusstudio.com",
     "url": "http://www.talusstudio.com"
-  }
+  },
+  "repository": "github:talusstudio-packages/TalusHaptic-Package"
 }
